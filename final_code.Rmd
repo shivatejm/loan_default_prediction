@@ -1,6 +1,6 @@
 ---
 title: "BAwithR_Project_CreditFraudrisk"
-author: "Phanindra"
+author: "Shiva Teja Medichelmala"
 date: "November 20, 2018"
 output: html_document
 ---
